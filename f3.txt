@@ -1,2 +1,3 @@
 Hi Everyone
 This is DevOps Class
+Attend the class regularly.
